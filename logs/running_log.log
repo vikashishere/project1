@@ -1,2 +1,126 @@
 [2024-03-17 12:15:06,044: INFO: main: This is our custom log]
 [2024-03-17 12:27:41,609: INFO: main: This is our custom log]
+[2024-03-19 11:26:40,607: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-19 11:26:40,626: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-19 11:26:40,646: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-19 11:26:40,652: INFO: common: created directory at: artifacts]
+[2024-03-19 11:26:40,656: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-19 11:26:42,984: INFO: 3447005916: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 21948
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "1f07d5160eccb90496e4acbcb9e6cd72b96a6aeed97fcca53e55b3f008417d27"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: FFC6:2E33C0:88F92:B9472:65F9291C
+Accept-Ranges: bytes
+Date: Tue, 19 Mar 2024 05:56:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10242-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1710827804.171484,VS0,VE285
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 3307b7d5515b039bc9eee25d52498330d80b29d3
+Expires: Tue, 19 Mar 2024 06:01:44 GMT
+Source-Age: 0
+
+]
+[2024-03-19 14:19:02,857: INFO: main: This is our custom log]
+[2024-03-19 14:37:34,471: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-03-19 14:37:34,471: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-19 14:37:34,487: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-19 14:37:34,487: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-19 14:37:34,487: INFO: common: created directory at: artifacts]
+[2024-03-19 14:37:34,487: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-19 14:37:36,749: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 21948
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "1f07d5160eccb90496e4acbcb9e6cd72b96a6aeed97fcca53e55b3f008417d27"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B940:2D440B:B6CE8:F04E9:65F955D9
+Accept-Ranges: bytes
+Date: Tue, 19 Mar 2024 09:07:38 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10227-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1710839258.903673,VS0,VE290
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: dec03a6eeed9633f6deab663af35ff90b25bcec0
+Expires: Tue, 19 Mar 2024 09:12:38 GMT
+Source-Age: 0
+
+]
+[2024-03-19 14:37:36,771: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-03-19 15:30:14,582: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-19 15:30:14,608: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-19 15:30:14,624: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-19 15:30:14,627: INFO: common: created directory at: artifacts]
+[2024-03-19 15:30:14,629: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-19 15:41:50,834: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-19 15:41:50,837: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-19 15:41:50,841: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-19 15:41:50,843: INFO: common: created directory at: artifacts]
+[2024-03-19 15:41:50,848: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-19 15:52:25,339: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-03-19 15:52:25,343: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-19 15:52:25,344: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-19 15:52:25,346: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-19 15:52:25,347: INFO: common: created directory at: artifacts]
+[2024-03-19 15:52:25,347: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-19 15:52:26,941: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 21948
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "1f07d5160eccb90496e4acbcb9e6cd72b96a6aeed97fcca53e55b3f008417d27"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 64A8:2D60B0:CC32E:109544:65F96764
+Accept-Ranges: bytes
+Date: Tue, 19 Mar 2024 10:22:28 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10240-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1710843748.323625,VS0,VE282
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 8cfbe65c80f90014c9500f8dcd3582fd1fdf6ace
+Expires: Tue, 19 Mar 2024 10:27:28 GMT
+Source-Age: 0
+
+]
+[2024-03-19 15:52:26,976: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-03-19 15:52:26,980: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-03-19 15:52:26,987: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-19 15:52:26,988: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-19 15:52:26,991: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-19 15:52:26,994: INFO: common: created directory at: artifacts]
+[2024-03-19 15:52:26,994: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-19 15:52:27,038: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
