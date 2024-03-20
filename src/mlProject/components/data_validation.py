@@ -24,7 +24,9 @@ class DataValiadtion:
                 if col not in all_schema:
                     validation_status = False
                     with open(self.config.STATUS_FILE, 'w') as f:
-                        f.write(f"Validation status: {validation_status}")
+                        f.write(f"Validation status: {validation_status}\n")
+                        f.write(f"Column in data.csv: {all_cols}\n")
+                        f.write(f"Column in schema: {all_schema}\n")
                         f.write(f"{col} is not present in {all_schema}")
                 else:
                     validation_status = True
