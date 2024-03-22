@@ -926,3 +926,35 @@ x==========x]
 [2024-03-21 16:55:37,899: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
 
 x==========x]
+[2024-03-22 11:01:41,856: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.103:8080]
+[2024-03-22 11:01:41,857: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-22 11:02:03,663: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:02:03] "GET / HTTP/1.1" 200 -]
+[2024-03-22 11:02:03,811: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:02:03] "GET /static/css2/style.css HTTP/1.1" 200 -]
+[2024-03-22 11:02:03,812: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:02:03] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -]
+[2024-03-22 11:02:03,815: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:02:03] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2024-03-22 11:02:03,817: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:02:03] "GET /static/js/scripts.js HTTP/1.1" 200 -]
+[2024-03-22 11:02:05,174: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:02:05] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-03-22 11:02:05,182: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:02:05] "GET /static/assets/img/form-v9.jpg HTTP/1.1" 200 -]
+[2024-03-22 11:02:05,268: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:02:05] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-03-22 11:02:05,758: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:02:05] "GET /static/assets/favicon.ico HTTP/1.1" 200 -]
+[2024-03-22 11:35:04,891: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.103:8080]
+[2024-03-22 11:35:04,892: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-22 11:35:11,772: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:35:11] "GET / HTTP/1.1" 200 -]
+[2024-03-22 11:35:11,825: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:35:11] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2024-03-22 11:35:11,825: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:35:11] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-03-22 11:35:11,846: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:35:11] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2024-03-22 11:35:11,853: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:35:11] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-03-22 11:35:11,907: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:35:11] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-03-22 11:35:11,946: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:35:11] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-03-22 11:35:11,947: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:35:11] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -]
+[2024-03-22 11:35:11,990: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:35:11] "[36mGET /static/assets/favicon.ico HTTP/1.1[0m" 304 -]
+[2024-03-22 11:35:42,470: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:35:42] "POST /predict HTTP/1.1" 200 -]
+[2024-03-22 11:35:42,537: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:35:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-03-22 11:35:42,549: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:35:42] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-03-22 11:35:42,566: INFO: _internal: 127.0.0.1 - - [22/Mar/2024 11:35:42] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
